@@ -53,7 +53,7 @@ This organization holds VuePress plugins and themes's source code and docs.
 [seo2]: https://vuepress-theme-hope.github.io/v2/seo/
 [sitemap2]: https://vuepress-theme-hope.github.io/v2/sitemap/
 
-## V1
+## VuePress1
 
 - [vuepress-theme-hope][theme1]: A powerful VuePress theme
 
