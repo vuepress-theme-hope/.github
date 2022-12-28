@@ -1,1 +1,3 @@
-This repo holds organization profile README.
+# Introduction
+
+This repo holds organization profile README and default community health files.
