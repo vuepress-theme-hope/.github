@@ -55,6 +55,9 @@ This organization holds VuePress plugins and themes's source code and docs.
 
 ## VuePress1
 
+VuePress1 plugins and themes are already deprecated, and no longer receive any updates, please upgrade to VuePress2.
+
+<!--
 - [vuepress-theme-hope][theme1]: A powerful VuePress theme
 
 - [@mr-hope/vuepress-plugin-comment][comment]: Comment and page info feature
@@ -100,3 +103,4 @@ This organization holds VuePress plugins and themes's source code and docs.
 [seo]: https://vuepress-theme-hope.github.io/v1/seo/
 [sitemap]: https://vuepress-theme-hope.github.io/v1/sitemap/
 
+-->
