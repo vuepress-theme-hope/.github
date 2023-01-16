@@ -36,22 +36,22 @@ This organization holds VuePress plugins and themes's source code and docs.
 
 - [vuepress-plugin-sitemap2][sitemap2]: Sitemap plugin
 
-[theme]: https://vuepress-theme-hope.github.io/v2/
-[blog2]: https://vuepress-theme-hope.github.io/v2/blog/
-[comment2]: https://vuepress-theme-hope.github.io/v2/comment/
-[components]: https://vuepress-theme-hope.github.io/v2/components/
-[copy-code2]: https://vuepress-theme-hope.github.io/v2/copy-code/
-[copyright2]: https://vuepress-theme-hope.github.io/v2/copyright/
-[feed2]: https://vuepress-theme-hope.github.io/v2/feed/
-[lightgallery]: https://vuepress-theme-hope.github.io/v2/lightgallery/
-[md-enhance]: https://vuepress-theme-hope.github.io/v2/md-enhance/
-[photo-swipe]: https://vuepress-theme-hope.github.io/v2/photo-swipe/
-[pwa2]: https://vuepress-theme-hope.github.io/v2/pwa/
-[reading-time2]: https://vuepress-theme-hope.github.io/v2/reading-time/
-[redirect2]: https://vuepress-theme-hope.github.io/v2/redirect/
-[sass-palette]: https://vuepress-theme-hope.github.io/v2/sass-palette/
-[seo2]: https://vuepress-theme-hope.github.io/v2/seo/
-[sitemap2]: https://vuepress-theme-hope.github.io/v2/sitemap/
+[theme]: https://theme-hope.vuejs.press
+[blog2]: https://plugin-blog2.vuejs.press
+[comment2]: https://plugin-comment2.vuejs.press
+[components]: https://plugin-components.vuejs.press
+[copy-code2]: https://plugin-copy-code2.vuejs.press
+[copyright2]: https://plugin-copyright2.vuejs.press
+[feed2]: https://plugin-feed2.vuejs.press
+[lightgallery]: https://plugin-lightgallery.vuejs.press
+[md-enhance]: https://plugin-md-enhance.vuejs.press
+[photo-swipe]: https://plugin-photo-swipe.vuejs.press
+[pwa2]: https://plugin-pwa2.vuejs.press
+[reading-time2]: https://plugin-reading-time2.vuejs.press
+[redirect2]: https://plugin-redirect.vuejs.press
+[sass-palette]: https://plugin-sass-palette.vuejs.press
+[seo2]: https://plugin-seo2.vuejs.press
+[sitemap2]: https://plugin-sitemap2.vuejs.press
 
 ## VuePress1
 
