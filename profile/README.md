@@ -12,11 +12,7 @@ This organization holds VuePress plugins and themes's source code and docs.
 
 - [vuepress-plugin-components][components]: Provide some out of box plugins
 
-- [vuepress-plugin-copy-code2][copy-code2]: Provide copy button for code blocks
-
 - [vuepress-plugin-copyright2][copyright2]: Append copyright information when copying or diable copy and selection.
-
-- [vuepress-plugin-feed2][feed2]: Feed support
 
 - [vuepress-plugin-md-enhance][md-enhance]: Provide more Markdown syntax
 
@@ -32,17 +28,11 @@ This organization holds VuePress plugins and themes's source code and docs.
 
 - [vuepress-plugin-sass-palette][sass-palette]: Sass style plugin for all plugins and themes
 
-- [vuepress-plugin-seo2][seo2]: SEO Enhancement Plugin
-
-- [vuepress-plugin-sitemap2][sitemap2]: Sitemap plugin
-
 [theme]: https://theme-hope.vuejs.press
 [blog2]: https://plugin-blog2.vuejs.press
 [comment2]: https://plugin-comment2.vuejs.press
 [components]: https://plugin-components.vuejs.press
-[copy-code2]: https://plugin-copy-code2.vuejs.press
 [copyright2]: https://plugin-copyright2.vuejs.press
-[feed2]: https://plugin-feed2.vuejs.press
 [lightgallery]: https://plugin-lightgallery.vuejs.press
 [md-enhance]: https://plugin-md-enhance.vuejs.press
 [photo-swipe]: https://plugin-photo-swipe.vuejs.press
@@ -50,8 +40,6 @@ This organization holds VuePress plugins and themes's source code and docs.
 [reading-time2]: https://plugin-reading-time2.vuejs.press
 [redirect2]: https://plugin-redirect.vuejs.press
 [sass-palette]: https://plugin-sass-palette.vuejs.press
-[seo2]: https://plugin-seo2.vuejs.press
-[sitemap2]: https://plugin-sitemap2.vuejs.press
 
 ## VuePress1
 
